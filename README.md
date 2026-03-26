@@ -34,5 +34,31 @@ git clone https://github.com/oa6686325-web/cyber_tool.git
 cd cyber_tool
 python3 cyber_tool.py
 
-## 💻 Developer Notes
-owner oa6686325
+
+## 👨‍💻 Developers
+
+### 💀 Founder
+- **oa6686325-web**
+
+---
+
+### 🤝 Contributors
+- no one
+
+---
+
+### 🚀 Join the Team
+
+Want to contribute?
+
+- Fork the repository
+- Add your own tool
+- Submit a pull request
+
+---
+
+### ⚙️ Dev Rules
+
+- Keep code clean
+- Test before pushing
+- Add useful tools only
