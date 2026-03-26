@@ -34,4 +34,5 @@ git clone https://github.com/oa6686325-web/cyber_tool.git
 cd cyber_tool
 python3 cyber_tool.py
 
-Developed by oa6686325-web
+## 💻 Developer Notes
+owner oa6686325
