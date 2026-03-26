@@ -23,7 +23,6 @@
 
 more...
 
-```md
 ## 🚀 Installation
 
 ```bash
@@ -34,9 +33,7 @@ pip install requests colorama
 git clone https://github.com/oa6686325-web/cyber_tool.git
 cd cyber_tool
 python3 cyber_tool.py
-
-
-
+```
 ## 👨‍💻 Developers
 
 ### 💀 Founder
@@ -45,7 +42,7 @@ python3 cyber_tool.py
 ---
 
 ### 🤝 Contributors
-- You 😈
+- no one
 
 ---
 
