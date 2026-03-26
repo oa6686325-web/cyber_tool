@@ -18,7 +18,7 @@
 - 🌍 Web Analysis  
 - 📡 Network Diagnostics  
 - 🧠 Smart Input Correction  
-- 🔧 Auto URL Fixing  
+- 🔧 Auto URL Fixing
 - 🤖 Basic AI Assistant  
 
 more...
