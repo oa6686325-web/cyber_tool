@@ -1,2 +1,16 @@
-# cyber_tool
-Powerful terminal-based cybersecurity toolkit designed for learning and ethical testing. Provides 50+ built-in tools including port scanning, DNS and WHOIS lookup, OSINT features, web analysis, and network diagnostics. Includes smart input correction, auto URL fixing, and basic AI assistant for guidance.
+# 💀 Cyber Tool
+
+Powerful terminal-based cybersecurity toolkit designed for learning and ethical testing.
+
+## ⚡ Features
+- Port Scanning
+- DNS & WHOIS Lookup
+- OSINT Tools
+- Web Analysis
+- Network Diagnostics
+- Smart Input Correction
+- Auto URL Fixing
+- Basic AI Assistant
+
+## ⚠️ Disclaimer
+This tool is for educational purposes only. Use only on systems you own or have permission to test.
