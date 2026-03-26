@@ -1,6 +1,10 @@
 # 💀 Cyber Tool
 
-Powerful terminal-based cybersecurity toolkit designed for learning and ethical testing.
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/cyber_tool?style=social)
+![Version](https://img.shields.io/badge/version-1.0-red)
+![Platform](https://img.shields.io/badge/platform-Termux-green)
+
+Advanced cybersecurity toolkit for learning and ethical testing 🚀
 
 ## ⚡ Features
 - Port Scanning
