@@ -32,6 +32,6 @@ pip install requests colorama
 
 git clone https://github.com/oa6686325-web/cyber_tool.git
 cd cyber_tool
-python tool.py
+python3 cyber_tool.py
 
 Developed by oa6686325-web
